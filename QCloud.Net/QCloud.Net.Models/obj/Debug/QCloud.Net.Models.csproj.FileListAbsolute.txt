@@ -1,0 +1,4 @@
+E:\my.code\QCloud.Net\QCloud.Net.Models\bin\Debug\QCloud.Net.Models.dll
+E:\my.code\QCloud.Net\QCloud.Net.Models\bin\Debug\QCloud.Net.Models.pdb
+E:\my.code\QCloud.Net\QCloud.Net.Models\obj\Debug\QCloud.Net.Models.dll
+E:\my.code\QCloud.Net\QCloud.Net.Models\obj\Debug\QCloud.Net.Models.pdb

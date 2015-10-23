@@ -1,0 +1,5 @@
+E:\my.code\QCloud.Net\QCloud.Net.Services\bin\Debug\QCloud.Net.Services.dll
+E:\my.code\QCloud.Net\QCloud.Net.Services\bin\Debug\QCloud.Net.Services.pdb
+E:\my.code\QCloud.Net\QCloud.Net.Services\obj\Debug\QCloud.Net.Services.csprojResolveAssemblyReference.cache
+E:\my.code\QCloud.Net\QCloud.Net.Services\obj\Debug\QCloud.Net.Services.dll
+E:\my.code\QCloud.Net\QCloud.Net.Services\obj\Debug\QCloud.Net.Services.pdb

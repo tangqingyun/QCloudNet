@@ -1,0 +1,5 @@
+E:\my.code\QCloud.Net\QCloud.Net.DataAccess\bin\Debug\QCloud.Net.DataAccess.dll
+E:\my.code\QCloud.Net\QCloud.Net.DataAccess\bin\Debug\QCloud.Net.DataAccess.pdb
+E:\my.code\QCloud.Net\QCloud.Net.DataAccess\obj\Debug\QCloud.Net.DataAccess.csprojResolveAssemblyReference.cache
+E:\my.code\QCloud.Net\QCloud.Net.DataAccess\obj\Debug\QCloud.Net.DataAccess.dll
+E:\my.code\QCloud.Net\QCloud.Net.DataAccess\obj\Debug\QCloud.Net.DataAccess.pdb
